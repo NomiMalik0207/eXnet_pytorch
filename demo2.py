@@ -1,7 +1,4 @@
-#-----------------------------------------
-# written by Leonard Niu
-# HIT
-#-----------------------------------------
+#This script is used script devaloped by Mr. Liu
 import numpy as np
 import os
 import argparse
