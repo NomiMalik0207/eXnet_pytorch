@@ -1,4 +1,4 @@
-# eXnet
+# eXnet: An Efficient Approach for Emotion Recognition in the Wild
 This is the official repo of the paper 'eXnet: An Efficient Approach for Emotion Recognition in the Wild' [[1]](#1).
 # Model architecture
 please refer to final.py as model architecture.
